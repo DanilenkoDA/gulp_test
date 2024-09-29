@@ -1,7 +1,7 @@
  const urls = [
-       "https://example.com",
-       "https://www.wikipedia.org",
-       "https://www.python.org"
+       "https://my.itmo.ru/",
+       "https://i.pinimg.com/736x/27/a9/45/27a9457ca9d512da21abc20c33e985a8.jpg",
+       "https://steamuserimages-a.akamaihd.net/ugc/1621850006938404146/EA72DC3C31DED440C024F0DD1D9859C44B1BBDFF/?imw=512&amp;&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false"
    ];
 
    let currentIndex = 0;
